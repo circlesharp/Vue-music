@@ -1,7 +1,6 @@
 import { commonParams } from './config'
 import axios from 'axios'
 
-// const debug = true
 const debug = process.env.NODE_ENV !== 'production'
 
 export function getRecommend () {

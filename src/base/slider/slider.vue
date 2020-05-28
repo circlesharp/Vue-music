@@ -4,7 +4,12 @@
       <slot></slot>
     </div>
     <div class="dots">
-      <span class="dot" v-for='(item, index) in dots' :key='index' :class="{ 'active': currentPageIndex === index }"></span>
+      <span
+        class="dot"
+        v-for='(item, index) in dots'
+        :key='index'
+        :class="{ 'active': currentPageIndex === index }"
+      ></span>
     </div>
   </div>
 </template>
@@ -12,6 +17,7 @@
 <script>
 import BScroll from 'better-scroll'
 import { addClass } from 'common/js/dom'
+
 export default {
   props: {
     loop: {

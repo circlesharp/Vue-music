@@ -1,7 +1,11 @@
 <template>
   <div class='m-header'>
+
+    <!-- part 1 logo, 产品名字 -->
     <div class="icon"></div>
     <h1 class="text">Chicken Music</h1>
+
+    <!-- part 2 个人中心 -->
     <router-link to='/user' class='mine' tag='div'>
       <i class="icon-mine"></i>
     </router-link>

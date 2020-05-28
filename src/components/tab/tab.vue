@@ -1,6 +1,8 @@
 <template>
   <div class="tab">
-    <!-- tag的默认值为a,表示渲染成为什么标签 -->
+    <!-- tag 的默认为 a ,表示渲染成为什么标签 -->
+    <!-- class 在被选中时，会成为 router-link-active -->
+    <!-- to 对应路由配置里面的 path -->
     <router-link tag='div' class='tab-item' to='/recommend'>
       <span class="tab-link">推荐</span>
     </router-link>

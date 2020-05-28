@@ -12,3 +12,6 @@
 
 ## 上线
 1. 项目已上线：http://rtfm.work/music
+
+## 笔记
+1. 详见 _Note dir
