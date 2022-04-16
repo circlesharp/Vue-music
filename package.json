@@ -7,7 +7,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "vite": "vite"
   },
   "dependencies": {
     "axios": "^0.16.1",
@@ -35,8 +36,13 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
+    "postcss-import-alias-resolver": "^0.1.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
+    "vite": "^2.7.13",
+    "vite-plugin-resolve-extension-vue": "^0.1.0",
+    "vite-plugin-stylus-alias": "^1.1.1",
+    "vite-plugin-vue2": "^1.9.2",
     "vue-template-compiler": "^2.6.10"
   }
 }
