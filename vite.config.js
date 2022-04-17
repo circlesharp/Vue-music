@@ -2,7 +2,8 @@ import { defineConfig } from 'vite';
 import { createVuePlugin } from 'vite-plugin-vue2';
 import path from 'path';
 import resolveExtensionVue from 'vite-plugin-resolve-extension-vue';
-import vitePluginStylusAlias from 'vite-plugin-stylus-alias'
+import vitePluginStylusAlias from 'vite-plugin-stylus-alias';
+import gatherRemovedExportsPlugin from './track-deps/rollupPlugin';
 
 const HOST = '0.0.0.0';
 const REPLACEMENT = `${path.resolve(__dirname, './src')}/`;
@@ -41,6 +42,7 @@ export default () => {
           replacement: `${path.resolve(__dirname, './src/base')}/`,
         },
       ],
+      extensions: ['.mjs', '.js', '.ts', '.jsx', '.tsx', '.json', '.vue'],
     },
     plugins: [
       // vue 插件
@@ -50,7 +52,10 @@ export default () => {
       resolveExtensionVue(),
 
       // 处理 stylus alias
-      vitePluginStylusAlias()
+      vitePluginStylusAlias(),
+
+      // 收集被移除的 exports
+      gatherRemovedExportsPlugin(),
     ],
   });
 };

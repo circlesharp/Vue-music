@@ -1,0 +1,2754 @@
+[
+  {
+    "path": "vite/modulepreload-polyfill",
+    "renderedExports": [],
+    "removedExports": []
+  },
+  {
+    "path": "vite/preload-helper",
+    "renderedExports": ["__vitePreload"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/vue/dist/vue.runtime.esm.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/m-header/m-header.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/m-header/m-header.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000/vite/vueComponentNormalizer",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/m-header/m-header.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/tab/tab.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/tab/tab.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/tab/tab.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/vuex/dist/vuex.esm.js",
+    "renderedExports": [
+      "default",
+      "Store",
+      "install",
+      "mapState",
+      "mapMutations",
+      "mapGetters",
+      "mapActions",
+      "createNamespacedHelpers"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000commonjsHelpers.js",
+    "renderedExports": ["commonjsGlobal", "getDefaultExportFromCjs"],
+    "removedExports": [
+      "getDefaultExportFromNamespaceIfPresent",
+      "getDefaultExportFromNamespaceIfNotNamed",
+      "getAugmentedNamespace",
+      "commonjsRequire"
+    ]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/index.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._basecopy/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._getnative/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.isarguments/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.isarray/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.keys/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._baseassign/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._bindcallback/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._isiterateecall/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.restparam/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash._createassigner/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.assign/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lodash.defaults/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/prefixed-event/lib/prefixed-event.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/load-styles/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/add-unit.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/create-css-translate-string.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/prefix.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/get-styles.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/create-keyframe-animation.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/lib/animation-property.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/is-function/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/native-promisify-if-present/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/transform-property/index.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/transform-property/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/create-keyframe-animation/index.js",
+    "renderedExports": ["default", "__moduleExports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/dom.js",
+    "renderedExports": ["addClass", "hasClass", "getData", "prefixStyle"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-bar/progress-bar.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-bar/progress-bar.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-bar/progress-bar.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-circle/progress-circle.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-circle/progress-circle.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/progress-circle/progress-circle.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/config.js",
+    "renderedExports": ["playMode"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/lyric-parser/dist/lyric.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/lyric-parser/dist/lyric.js",
+    "renderedExports": ["default", "__moduleExports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/better-scroll/dist/bscroll.esm.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/scroll/scroll.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/scroll/scroll.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/confirm/confirm.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/confirm/confirm.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/confirm/confirm.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/util.js",
+    "renderedExports": ["shuffle", "debounce"],
+    "removedExports": ["showSongName"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/mixin.js",
+    "renderedExports": ["playlistMixin", "playModeMixin", "searchMixin"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-box/search-box.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-box/search-box.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-box/search-box.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/switches/switches.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/switches/switches.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/switches/switches.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/song-list/song-list.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/song-list/song-list.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/song-list/song-list.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-list/search-list.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-list/search-list.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/search-list/search-list.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/jsonp/node_modules/debug/src/browser.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/jsonp/node_modules/debug/src/debug.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/jsonp/node_modules/ms/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/jsonp/node_modules/debug/src/debug.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/jsonp/node_modules/debug/src/browser.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/jsonp/index.js",
+    "renderedExports": ["default", "__moduleExports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/jsonp.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/config.js",
+    "renderedExports": ["commonParams", "options", "ERR_OK"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/axios/lib/axios.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/bind.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/is-buffer/index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/utils.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/normalizeHeaderName.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/enhanceError.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/createError.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/settle.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/buildURL.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/parseHeaders.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/isURLSameOrigin.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/btoa.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/cookies.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/adapters/xhr.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/defaults.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/InterceptorManager.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/transformData.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/cancel/isCancel.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/dispatchRequest.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/isAbsoluteURL.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/combineURLs.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/core/Axios.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/cancel/Cancel.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/cancel/CancelToken.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/helpers/spread.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/lib/axios.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/axios/index.js",
+    "renderedExports": ["default", "__moduleExports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/search.js",
+    "renderedExports": ["getHotKey", "search"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/singer.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/uid.js",
+    "renderedExports": ["getUid"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/song.js",
+    "renderedExports": ["getLyric", "getSongsUrl"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/js-base64/base64.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/js-base64/base64.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/song.js",
+    "renderedExports": [
+      "default",
+      "createSong",
+      "isValidMusic",
+      "processSongsUrl"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/loading/loading.gif",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/loading/loading.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/loading/loading.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/loading/loading.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/no-result/no-result.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/no-result/no-result.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/no-result/no-result.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/suggest/suggest.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/suggest/suggest.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/suggest/suggest.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/top-tip/top-tip.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/top-tip/top-tip.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/top-tip/top-tip.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/add-song/add-song.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/add-song/add-song.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/add-song/add-song.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/playlist/playlist.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/playlist/playlist.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/playlist/playlist.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/player/player.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/player/player.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/player/player.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/App.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/App.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/App.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/vue-router/dist/vue-router.esm.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/rank.js",
+    "renderedExports": ["getTopList", "getMusicList"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/rank/rank.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/rank/rank.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/rank/rank.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/recommend.js",
+    "renderedExports": ["getRecommend", "getDiscList", "getSongList"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/slider/slider.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/slider/slider.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/slider/slider.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/recommend/recommend.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/recommend/recommend.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/recommend/recommend.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/search/search.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/search/search.vue?vue&type=style&index=0&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/search/search.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/listview/listview.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/listview/listview.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/base/listview/listview.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/api/singer.js",
+    "renderedExports": ["getSingerList", "getSingerDetail"],
+    "removedExports": ["getSingerListAJAX"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer/singer.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer/singer.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer/singer.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/music-list/music-list.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/music-list/music-list.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/music-list/music-list.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer-detail/singer-detail.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer-detail/singer-detail.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/singer-detail/singer-detail.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/disc/disc.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/disc/disc.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/disc/disc.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/top-list/top-list.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/top-list/top-list.vue?vue&type=style&index=0&scoped=true&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/top-list/top-list.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/user-center/user-center.vue?vue&type=template&lang.js",
+    "renderedExports": ["render", "staticRenderFns"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/user-center/user-center.vue?vue&type=style&index=0&scoped=true&rel=stylesheet%2Fstylus&lang.stylus",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/components/user-center/user-center.vue",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/router/index.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/mutation-types.js",
+    "renderedExports": [
+      "SET_SINGER",
+      "SET_PLAYING_STATE",
+      "SET_FULL_SCREEN",
+      "SET_PLAYLIST",
+      "SET_SEQUENCE_LIST",
+      "SET_PLAY_MODE",
+      "SET_CURRENT_INDEX",
+      "SET_DISC",
+      "SET_TOP_LIST",
+      "SET_SEARCH_HISTORY",
+      "SET_PLAY_HISTORY",
+      "SET_FAVOURITE_LIST",
+      "DELETE_FAVOURITE_LIST"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/good-storage/dist/storage.esm.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/js/cache.js",
+    "renderedExports": [
+      "loadSearch",
+      "saveSearch",
+      "deleteSearch",
+      "loadSong",
+      "saveSong",
+      "loadFavourite",
+      "saveFavourite",
+      "deleteFavourite"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/actions.js",
+    "renderedExports": [
+      "selecePlay",
+      "randomPlay",
+      "insertSong",
+      "deleteSong",
+      "deleteSongList",
+      "saveSearchHistory",
+      "deleteSearchHistory",
+      "saveSongHistory",
+      "saveFavouriteList",
+      "deleteFavouriteList"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/getters.js",
+    "renderedExports": [
+      "singer",
+      "playing",
+      "fullScreen",
+      "playlist",
+      "sequenceList",
+      "mode",
+      "currentIndex",
+      "disc",
+      "topList",
+      "searchHistory",
+      "playHistory",
+      "favouriteList",
+      "currentSong"
+    ],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/state.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/mutations.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/vuex/dist/logger.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/vuex/dist/logger.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/store/index.js",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/vue-lazyload/vue-lazyload.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/vue-lazyload/vue-lazyload.js",
+    "renderedExports": ["default", "__moduleExports"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_global.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_global.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_has.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_fails.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_descriptors.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_core.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_core.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-dp.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_is-object.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_an-object.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_dom-create.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_ie8-dom-define.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-primitive.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-dp.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_property-desc.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_hide.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_redefine.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_uid.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_shared.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_library.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_shared.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_function-to-string.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_redefine.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_a-function.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_ctx.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_export.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_meta.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_meta.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_wks.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_wks.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_set-to-string-tag.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_wks-ext.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_wks-ext.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_wks-define.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_cof.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iobject.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_defined.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-iobject.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-integer.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-length.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-absolute-index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-includes.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_shared-key.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-keys-internal.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_enum-bug-keys.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-keys.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gops.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gops.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-pie.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-pie.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_enum-keys.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_is-array.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-dps.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_html.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-create.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopn-ext.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopn.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopn.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopn-ext.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopd.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gopd.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.symbol.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.create.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.define-property.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.define-properties.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-sap.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.get-own-property-descriptor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-object.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-gpo.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.get-prototype-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.keys.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.get-own-property-names.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.freeze.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.seal.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.prevent-extensions.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.is-frozen.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.is-sealed.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.is-extensible.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-assign.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.assign.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_same-value.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.is.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_set-proto.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.set-prototype-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_classof.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.object.to-string.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_invoke.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_bind.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.function.bind.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.function.name.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.function.has-instance.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-ws.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-trim.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_parse-int.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.parse-int.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_parse-float.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.parse-float.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_inherit-if-required.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.constructor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_a-number-value.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-repeat.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.to-fixed.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.to-precision.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.epsilon.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.is-finite.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_is-integer.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.is-integer.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.is-nan.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.is-safe-integer.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.max-safe-integer.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.min-safe-integer.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.parse-float.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.number.parse-int.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_math-log1p.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.acosh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.asinh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.atanh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_math-sign.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.cbrt.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.clz32.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.cosh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_math-expm1.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.expm1.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_math-fround.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.fround.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.hypot.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.imul.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.log10.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.log1p.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.log2.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.sign.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.sinh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.tanh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.math.trunc.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.from-code-point.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.raw.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.trim.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-at.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iterators.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iter-create.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iter-define.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.iterator.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.code-point-at.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_is-regexp.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-context.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_fails-is-regexp.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.ends-with.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.includes.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.repeat.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.starts-with.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-html.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.anchor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.big.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.blink.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.bold.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.fixed.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.fontcolor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.fontsize.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.italics.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.link.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.small.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.strike.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.sub.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.string.sup.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.date.now.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.date.to-json.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_date-to-iso-string.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.date.to-iso-string.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.date.to-string.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_date-to-primitive.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.date.to-primitive.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.is-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iter-call.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_is-array-iter.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_create-property.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/core.get-iterator-method.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iter-detect.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.from.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_strict-method.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.join.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.slice.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.sort.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-species-constructor.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-species-create.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-methods.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.for-each.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.map.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.filter.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.some.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.every.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-reduce.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.reduce.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.reduce-right.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.index-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.last-index-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-copy-within.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_add-to-unscopables.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.copy-within.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-fill.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.fill.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.find.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.find-index.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_set-species.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.species.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_iter-step.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.array.iterator.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_flags.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.constructor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_regexp-exec.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.exec.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.flags.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.to-string.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_advance-string-index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_regexp-exec-abstract.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_fix-re-wks.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.match.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.replace.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.search.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_species-constructor.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.regexp.split.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_an-instance.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_for-of.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_for-of.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_task.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_microtask.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_new-promise-capability.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_new-promise-capability.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default", "f"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_perform.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_user-agent.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_promise-resolve.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_redefine-all.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.promise.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_validate-collection.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_collection-strong.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_collection.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.map.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.set.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.weak-map.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_collection-weak.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.weak-map.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.weak-set.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_typed.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_typed-buffer.js?commonjs-exports",
+    "renderedExports": ["__exports"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_to-index.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_typed-buffer.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.array-buffer.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.data-view.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_typed-array.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_typed-array.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.int8-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.uint8-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.uint8-clamped-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.int16-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.uint16-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.int32-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.uint32-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.float32-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.typed.float64-array.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.apply.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.construct.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.define-property.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.delete-property.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.enumerate.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.get.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.get-own-property-descriptor.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.get-prototype-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.has.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.is-extensible.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_own-keys.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.own-keys.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.prevent-extensions.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.set.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es6.reflect.set-prototype-of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.array.includes.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_flatten-into-array.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.array.flat-map.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.array.flatten.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.at.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_string-pad.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.pad-start.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.pad-end.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.trim-left.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.trim-right.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.string.match-all.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.symbol.async-iterator.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.symbol.observable.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.get-own-property-descriptors.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-to-array.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.values.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.entries.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_object-forced-pam.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.define-getter.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.define-setter.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.lookup-getter.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.object.lookup-setter.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_array-from-iterable.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_collection-to-json.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.map.to-json.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.set.to-json.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_set-collection-of.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.map.of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.set.of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.weak-map.of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.weak-set.of.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_set-collection-from.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.map.from.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.set.from.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.weak-map.from.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.weak-set.from.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.global.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.system.global.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.error.is-error.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.clamp.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.deg-per-rad.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.degrees.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_math-scale.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.fscale.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.iaddh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.isubh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.imulh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.rad-per-deg.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.radians.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.scale.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.umulh.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.math.signbit.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.promise.finally.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.promise.try.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_metadata.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.define-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.delete-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.get-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.get-metadata-keys.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.get-own-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.get-own-metadata-keys.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.has-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.has-own-metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.reflect.metadata.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.asap.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/es7.observable.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/web.timers.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/web.immediate.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/web.dom.iterable.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "\u0000C:/Users/circl/repo/Vue-music/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js?commonjs-module",
+    "renderedExports": ["__module"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/_replacer.js",
+    "renderedExports": ["__moduleExports"],
+    "removedExports": ["default"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/modules/core.regexp.escape.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/core-js/fn/regexp/escape.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/node_modules/babel-polyfill/lib/index.js",
+    "renderedExports": [],
+    "removedExports": ["default", "__moduleExports"]
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/common/stylus/index.styl",
+    "renderedExports": ["default"],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/src/main.js",
+    "renderedExports": [],
+    "removedExports": []
+  },
+  {
+    "path": "C:/Users/circl/repo/Vue-music/index.html",
+    "renderedExports": [],
+    "removedExports": []
+  }
+]
