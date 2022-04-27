@@ -3,7 +3,7 @@ module.exports = {
   env: {
     node: true,
   },
-  extends: ['plugin:vue/essential', '@vue/standard', 'track-deps'],
+  extends: ['plugin:vue/essential', '@vue/standard'],
   rules: {
     // allow paren-less arrow functions
     'arrow-parens': 0,
