@@ -39,7 +39,7 @@
     "postcss-import-alias-resolver": "^0.1.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
-    "vite": "^2.7.13",
+    "vite": "^2.9.13",
     "vite-plugin-resolve-extension-vue": "^0.1.0",
     "vite-plugin-stylus-alias": "^1.1.1",
     "vite-plugin-vue2": "^1.9.2",
